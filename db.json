@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "text": "Make an appointment",
+      "day": "tuesday",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "talk to ateea",
+      "day": "today",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "hello world",
+      "day": "testing",
+      "reminder": true,
+      "id": 3
+    }
+  ]
+}
